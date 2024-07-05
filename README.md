@@ -39,3 +39,8 @@ chcp 65001是设置命令行界面为utf-8，方便查看中文信息。
 工具配置好了会特别方便 ，电脑随便乱搞，随走随带
 
 如果当前路径下无bat文件，将会显示空白
+
+关注永恒之锋
+<p align="center">
+  <img src="https://lit.enomothem.com/zhixinghe/20220528141025.jfif">
+</p>
