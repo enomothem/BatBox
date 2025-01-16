@@ -34,6 +34,10 @@ start /min "" cmd /C "chcp 65001 &&start zenmap.exe"
 
 chcp 65001是设置命令行界面为utf-8，方便查看中文信息。
 
+2025年1月16日更新
+<img width="491" alt="e482a29aaf87ea39702b0ad02b59400" src="https://github.com/user-attachments/assets/9794c081-d66e-4887-989c-141f25935b72" />
+
+
 ## 总结
 
 工具配置好了会特别方便 ，电脑随便乱搞，随走随带
